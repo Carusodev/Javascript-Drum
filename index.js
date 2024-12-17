@@ -153,24 +153,3 @@ function buttonAnimation(currentKey) {
 
 
 
-
-
-//  var audio = new Audio("sounds/tom-1.mp3");
-//audio.play();
-        
-
-
-/* 
-//targeting the button with query and adding an event listener (set up a function to be called)
-// it finds the button and then we add the function to the event
-// if we click the button it shows an alert
-document.querySelector("button").addEventListener("click", handleClick); //we dont use the () to bypass the input
-
-
-// Lets create a fx for the buttons
-function handleClick() {
-    alert("I got clicked!");
-}
-
-
-*/
